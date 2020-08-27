@@ -16,3 +16,7 @@ How To Install It?
 
 Credits: Mango - Made the Options/Features more Accessible.
 Credits: AquaPlays - For the Bot Inself. 
+
+
+
+[![Run on Repl.it](https://repl.it/badge/github/Developer-Mango/FN-LobbyBot-Improved)](https://repl.it/github/Developer-Mango/FN-LobbyBot-Improved)
